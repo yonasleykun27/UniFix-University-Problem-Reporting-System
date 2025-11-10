@@ -12,7 +12,7 @@ UniFix is a C# desktop application that enables students and staff to report iss
 
 ## 💻 Tech Stack
 - **Language:** C#
-- **Framework:** .NET Framework / WPF
+- **Framework:** .NET Framework 
 - **Database:** SQL Server
 - **IDE:** Visual Studio 2022
 - **Version Control:** Git & GitHub
