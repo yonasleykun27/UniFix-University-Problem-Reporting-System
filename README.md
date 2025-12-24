@@ -13,19 +13,19 @@ UniFix Desktop is a robust, role-based management application built with **C# an
 ## 📸 Screenshots
 
 ### 🔑 Authentication & Identity
-| Login Interface | Modern UI Theming |
-| :---: | :---: |
-| <img src="Img/Login_Interface.png" width="400"> | <img src="Img/UI_Theming.png" width="400"> |
+| Login Interface |
+| :---: |
+| <img src="https://github.com/yonasleykun27/UniFix-University-Problem-Reporting-System/blob/main/Img/FormLogin.png?raw=true" width="400"> |
 
 ### 🛡️ Admin Control Center
 | Global Task Management | User Database & Governance |
 | :---: | :---: |
-| <img src="Img/Admin_Tasks.png" width="400"> | <img src="Img/Admin_Users.png" width="400"> |
+| <img src="https://github.com/yonasleykun27/UniFix-University-Problem-Reporting-System/blob/main/Img/FormAdminDashboard.png?raw=true" width="400"> | <img src="https://github.com/yonasleykun27/UniFix-University-Problem-Reporting-System/blob/main/Img/FormAdminDashboard1.png?raw=true" width="400"> |
 
 ### 👨‍🎓 Role Dashboards
 | Student Reporting | Teacher Workspace | Staff (Solver) Tasks |
 | :---: | :---: | :---: |
-| <img src="Img/Student_Dashboard.png" width="250"> | <img src="Img/Teacher_Dashboard.png" width="250"> | <img src="Img/Solver_Dashboard.png" width="250"> |
+| <img src="https://github.com/yonasleykun27/UniFix-University-Problem-Reporting-System/blob/main/Img/FormStudentDashboard.png?raw=true" width="250"> | <img src="https://github.com/yonasleykun27/UniFix-University-Problem-Reporting-System/blob/main/Img/FormTeacherDashboard.png?raw=true" width="250"> | <img src="https://github.com/yonasleykun27/UniFix-University-Problem-Reporting-System/blob/main/Img/FormSolverDashboard.png?raw=true" width="250"> |
 
 ---
 
